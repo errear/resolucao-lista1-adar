@@ -1,3 +1,5 @@
+# Acicionei esta mudança para ilustrar como faze um pull no github
+
 #CÓDIGO QUESTÃO 10
 
 #Questão 7 com os valores alterados
