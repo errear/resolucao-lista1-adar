@@ -1,4 +1,4 @@
-# Acicionei esta mudança para ilustrar como faze um pull no github
+# Adicionei esta mudança para ilustrar como faze um pull no github
 
 #CÓDIGO QUESTÃO 10
 
